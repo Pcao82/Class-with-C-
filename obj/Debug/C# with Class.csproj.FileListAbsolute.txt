@@ -1,0 +1,10 @@
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\bin\Debug\C# with Class.exe.config
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\bin\Debug\C# with Class.exe
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\bin\Debug\C# with Class.pdb
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C# with Class.csproj.AssemblyReference.cache
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C__with_Class.Properties.Resources.resources
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C# with Class.csproj.GenerateResource.cache
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C# with Class.csproj.CoreCompileInputs.cache
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C# with Class.exe
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C# with Class.pdb
+C:\Users\ibou8\Dropbox\PC\Desktop\LAB MODULE 11\C# with Class\obj\Debug\C__with_Class.Form.resources
